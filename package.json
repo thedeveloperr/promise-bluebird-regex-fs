@@ -1,0 +1,14 @@
+{
+  "name": "promises-bluebird-regex-fs",
+  "version": "1.0.0",
+  "description": "Practice involving promises bluebird fs module regex ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thedeveloperr",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
